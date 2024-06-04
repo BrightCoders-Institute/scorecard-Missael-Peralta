@@ -125,12 +125,12 @@ skills:
      - name: SQL
       level: 40%
       level-name: Advanced beginner
-      time: 1
+      time: 1 year
 
       - name: Java
       level: 20%
       level-name: Novice
-      time: 6 moths
+      time: 6 months
 
       - name: git
       level: 40%
