@@ -107,36 +107,10 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Javascript
+  - name: Javascript
       level: 40%
       level-name: Advanced beginner
       time: 1 year
-
-    - name: React
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
-
-    - name: React Native
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
-
-     - name: SQL
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
-
-      - name: Java
-      level: 20%
-      level-name: Novice
-      time: 6 months
-
-      - name: git
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
-
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
