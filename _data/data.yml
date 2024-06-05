@@ -116,6 +116,11 @@ skills:
       level-name: Advanced beginner
       time: 1 year
 
+    - name: Java
+      level: 20%
+      level-name: Novice
+      time: 1 year
+
     - name: SQL
       level: 40%
       level-name: Advanced beginner
