@@ -108,9 +108,9 @@ skills:
 
   toolset:
   - name: Javascript
-      level: 40%
+      level: "40%"
       level-name: Advanced beginner
-      time: 1 year
+      time: "1 year"
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
