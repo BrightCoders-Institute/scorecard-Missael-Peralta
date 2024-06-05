@@ -102,13 +102,18 @@ skills:
 
     - name: React Native
       level: 20%
-      level-name: Novice
-      time: 4 months
+      level-name: Advanced beginner
+      time: 1 year
 
-    - name: HTML y CSS
-      level: 60%
-      level-name: Competent
-      time: 1.5 years
+    - name: HTML
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
+
+    - name: CSS
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
 
     - name: Figma
       level: 40%
