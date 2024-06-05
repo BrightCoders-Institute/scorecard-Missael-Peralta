@@ -63,6 +63,13 @@ educationcomplete:
     details: |
       Facultad de Telemática - Internet Technologies Engineer.
 
+   - degree: Oracle Next Education
+      university: Oracle
+      time: ene 2024 - nov 2024
+      details: |
+        This program offers Oracle courses for learning in certain areas of specialization. In my case, in this program it is the backend with the Java language with Spring and postgresSQL.
+
+
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
