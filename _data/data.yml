@@ -20,7 +20,7 @@ sidebar:
   github: missael-peralta # solo tu nombre de usuario en github o dejar en blanco
   gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '' # solo tu nombre de usuario en twitter o dejar en blanco
+  twitter:  # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -62,13 +62,12 @@ educationcomplete:
     time: 2019 - 2023
     details: |
       Facultad de Telemática - Internet Technologies Engineer.
-
-   - degree: Oracle Next Education
-      university: Oracle
-      time: ene 2024 - nov 2024
-      details: |
-        This program offers Oracle courses for learning in certain areas of specialization. In my case, in this program it is the backend with the Java language with Spring and postgresSQL.
-
+      
+  - degree: Bachelor Degree
+    university: Universidad de Colima
+    time: 2019 - 2023
+    details: |
+      Facultad de Telemática - Internet Technologies Engineer.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
