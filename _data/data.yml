@@ -16,9 +16,9 @@ sidebar:
   email: peraltaarciniegamissael@gmail.com
   phone: 312 103 76 62
   website: # No agregar http://
-  linkedin: Missael Peralta Arciniega # solo tu nombre de usuario de linkedin o dejar en blanco
+  linkedin:  # solo tu nombre de usuario de linkedin o dejar en blanco
   github: missael-peralta # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: # solo tu nombre de usuario en gitlab o dejar en blanco
+  gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
   twitter: '' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -35,48 +35,38 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Passionate about connecting with people
+      link: # dejar en blanco
+
+    - item: Thoroughness and attention to detail
+      link: # dejar en blanco
+
+    - item: Emotional intelligence
+      link: # dejar en blanco
+
+    - item: Determination
       link: # dejar en blanco
 
     - item: Effective communication
       link: # dejar en blanco
 
-    - item: Good Team Player
-      link: # dejar en blanco
-
-    - item: Positive Attitude
-      link: # dejar en blanco
-
-    - item: Time and Task Management
-      link: # dejar en blanco
-
-    - item: Critical thinking, creativity, and problem-solving
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+  summary: I recently graduated from Engineering in Internet Technologies from the Faculty of Telematics of the University of Colima. I am looking for a growth-oriented company where I can effectively apply my skills in software development. I’m committed to actively contributing to the success of projects, providing innovative solutions, and staying updated on the latest technological trends.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
     time: 2019 - 2023
-    details: | 
-      Facultad de Telemática - Software Engineer.
-
-  - degree: Oracle Next Education
-    university: Oracle- Alura
-    time: 2024
     details: |
-      500 hrs course certification.
+      Facultad de Telemática - Internet Technologies Engineer.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Diciembre 2024 - Mayo 2024
+    time: Dec 2023 - May 2024
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -84,18 +74,11 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Brightcommers
-    time: Feb 2024 - mayo 2024
-    company: BrightCoders
-    details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for a Brightcommers is an e-commerce project designed to offer an online shopping experience, inspired by leading platforms such as Amazon or Mercado Libre. With Brightcommers, users can explore a variety of products, from electronics to sports, with the convenience of accessing everything from the comfort of their home.I worked remotely with other 3 team members.
-
   - role: Software Developer
-    time: julio 2022 - junio 2023
-    company: Company Name
+    time: jun 2023 - July
+    company: Universidad de Colima 
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop and optimize the frontend an attendance system for the University of Colima. Additionally, to make modifications use tools such as Figma, ReactJS, Angular, SQL, GIT and GitHub.
+     I Develop and optimize an attendance system for the University of Colima. Additionally, to make modifications use tools such as Figma, ReactJS, Angular, SQL, GIT and GitHub.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -107,10 +90,30 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-  - name: Javascript
-      level: "40%"
+    - name: Javascript
+      level: 40%
       level-name: Advanced beginner
-      time: "1 year"
+      time: 1 year
+
+    - name: React
+      level: 20%
+      level-name: Novice
+      time: 6 months
+
+    - name: React Native
+      level: 20%
+      level-name: Novice
+      time: 4 months
+
+    - name: HTML y CSS
+      level: 60%
+      level-name: Competent
+      time: 1.5 years
+
+    - name: Figma
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
