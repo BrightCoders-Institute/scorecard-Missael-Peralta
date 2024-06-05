@@ -75,7 +75,7 @@ experiences:
       such as teamwork and effective communication using an agile methodology.
 
   - role: Software Developer
-    time: jun 2023 - July
+    time: jun 2023 - Jul 2024
     company: Universidad de Colima 
     details: |
      I Develop and optimize an attendance system for the University of Colima. Additionally, to make modifications use tools such as Figma, ReactJS, Angular, SQL, GIT and GitHub.
@@ -95,13 +95,23 @@ skills:
       level-name: Advanced beginner
       time: 1 year
 
-    - name: React
+    - name: React native
       level: 20%
       level-name: Novice
       time: 6 months
 
-    - name: React Native
+     - name: Java
       level: 20%
+      level-name: Novice
+      time: 6 months
+
+    - name: Reactjs
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
+
+    - name: SQL
+      level: 40%
       level-name: Advanced beginner
       time: 1 year
 
